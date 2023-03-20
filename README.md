@@ -24,3 +24,9 @@
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> 
 <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" /> 
 <img height="32" width="32" src="https://www.php.net/images/logos/new-php-logo.svg" /> 
+
+
+<p align="center">
+  ![typing-petty](https://user-images.githubusercontent.com/100961127/226459649-28559767-f32f-49e8-9d70-c745491861d6.gif)
+
+</p>
