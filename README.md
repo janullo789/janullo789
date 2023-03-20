@@ -27,6 +27,6 @@
 
 
 <p align="center">
-  ![typing-petty](https://user-images.githubusercontent.com/100961127/226459649-28559767-f32f-49e8-9d70-c745491861d6.gif)
+   <img height="148" width="259" src="https://user-images.githubusercontent.com/100961127/226459934-266421fa-8ecf-4562-b14b-29b930233fec.gif" />
 
 </p>
