@@ -26,7 +26,10 @@
 <img height="32" width="32" src="https://www.php.net/images/logos/new-php-logo.svg" /> 
 
 
+### 📝 Projects 
+**I will be pleased if you take a look at my pinned projects. Some of them I did for my studies, so they may be in Polish.**
+
+<br>
 <p align="center">
    <img height="148" width="259" src="https://user-images.githubusercontent.com/100961127/226459934-266421fa-8ecf-4562-b14b-29b930233fec.gif" />
-
 </p>
