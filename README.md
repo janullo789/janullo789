@@ -20,8 +20,6 @@
 <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" /> 
 
 ### 📖 What I am currently learning / improving on
-<img height="32" width="32" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" /> <img height="32" width="32" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg" /> 
-<img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> 
 <img height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" /> 
 <img height="32" width="32" src="https://www.php.net/images/logos/new-php-logo.svg" /> 
 
