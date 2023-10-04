@@ -1,7 +1,7 @@
 # Hi there, I'm [Janek](https://github.com/janullo789) 👋
 
-🏠 I’m currently living at Cracow, Poland 🇵🇱. <br/>
-🎓 I'm currently in my third year of geoinformatics at [AGH University of Science and Technology](https://www.agh.edu.pl/en/). <br/>
+🏠 I’m currently living in Cracow, Poland 🇵🇱. <br/>
+🎓 I'm currently in my fourth year of geoinformatics at [AGH University of Science and Technology](https://www.agh.edu.pl/en/). <br/>
 🧐 I’m currently looking for my first work experience.<br/>
 🚴‍♂️ I’m cyclist. <br/>
 ⚡ Bla bla bla...
